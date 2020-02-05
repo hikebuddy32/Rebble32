@@ -1,46 +1,18 @@
-RebbleOS, except where noted below, is made available under an MIT-style
-license, as below:
+Copyright 2019 Saurabh Gandhi
 
-  Copyright (c) 2016, 2017 The RebbleOS Authors.
-  
-  Permission is hereby granted, free of charge, to any person obtaining a
-  copy of this software and associated documentation files (the "Software"),
-  to deal in the Software without restriction, including without limitation
-  the rights to use, copy, modify, merge, publish, distribute, sublicense,
-  and/or sell copies of the Software, and to permit persons to whom the
-  Software is furnished to do so, subject to the following conditions:
-  
-  The above copyright notice, this permission notice, and the included list
-  of authors shall be included in all copies or substantial portions of the
-  Software.
-  
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
-  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-  DEALINGS IN THE SOFTWARE.  
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
-Portions of this codebase are instead made available under other licenses:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
- * Neographics, in lib/neographics/, is available under the terms of the GNU
-   General Public License.  Please see lib/neographics/LICENSE for more
-   information.
- 
- * FreeRTOS, in FreeRTOS/, is available under the terms of the GNU General
-   Public License, with an additional FreeRTOS exception.  The RebbleOS
-   authors believe that this exception applies to RebbleOS.  Please see
-   FreeRTOS/LICENSE for more information.
- 
- * upng, in lib/png/, is available under a BSD-style license.  Please see
-   lib/png/upng.c for more information.
-
- * musl, which is excerpted in lib/musl, is available under the terms of
-   various permissive licenses.  Please see lib/musl/COPYRIGHT for more
-   information.
-
- * BTStack, which is in lib/btstack/btstack/ as a submodule, is available 
-   under the terms of a dual use proprietary license. BTStack is free for
-   use in a non-profit scenario, but commercial use will require a license.
-   See /lib/btstack/btstack/src/bluetooth.h for more information
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
